@@ -4,6 +4,6 @@ Hi everyone - I am looking for a new career opportunity in a Junior/Trainee .Net
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,net,git,powershell,visualstudio,js,html,css,ps" />
+    <img src="https://skillicons.dev/icons?i=cs,net,git,powershell,js,html,css,bootstrap,visualstudio,ps" />
   </a>
 </p>
