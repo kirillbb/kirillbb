@@ -1,4 +1,4 @@
-![](https://github.com/kirillbb/kirillbb/blob/dev/intod2.jpg?raw=true)
+![](https://github.com/kirillbb/kirillbb/blob/dev/git-profile-intro.png?raw=true)
 
 Hi everyone - I am looking for a new career opportunity in a Junior/Trainee .Net developer position and would appreciate your support. Thank you in advance for any connections, advice or opportunities you can offer. #OpenToWork. 
 
