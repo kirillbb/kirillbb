@@ -1,4 +1,4 @@
-Hi, I'm a dotnet developer from Kharkiv
+Hi everyone, I'm a dotnet developer from Kharkiv
 
 
 I'm looking to work remotely or in an office. (Don't mind moving to another city) 
